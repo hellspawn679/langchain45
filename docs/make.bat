@@ -2,7 +2,8 @@
 
 pushd %~dp0
 
-REM Command file for Sphinx documentation change2inthefork
+REM Command file for Sphinx documentation change2intheforkchange3
+
 
 
 if "%SPHINXBUILD%" == "" (
